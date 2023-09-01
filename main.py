@@ -50,7 +50,7 @@ url_list = [
 
 
 # 爬虫结果根目录
-result_root_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "result")
+result_root_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "content")
 
 
 # 自增id
