@@ -39,12 +39,12 @@ driver = webdriver.Chrome(executable_path="chromedriver.exe", desired_capabiliti
 
 url_list = [
     {
-        "url": "https://www.google.com.hk/search?q=%E8%94%AC%E8%8F%9C&newwindow=1&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjC7KDR0IvjAhVOzRoKHX-LBR0Q_AUIECgB&biw=1920&bih=969#imgrc=G2KeiGwmZFaMmM:",
-        "dir": "flesh"
+        "url": "https://www.google.com.hk/search?as_st=y&tbm=isch&as_q=&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=papik.pro&tbs=isz:lt,islt:8mp,ift:png",
+        "dir": ""
     },
     {
         "url": "https://www.google.com/search?q=%E4%B8%8D%E6%96%B0%E9%B2%9C%E7%9A%84%E8%94%AC%E8%8F%9C&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj75fup5IvjAhWSsnEKHfc_Da0Q_AUIECgB",
-        "dir": "unflesh"
+        "dir": ""
     }
 ]
 
